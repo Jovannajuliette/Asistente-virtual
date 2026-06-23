@@ -1,0 +1,40 @@
+{
+    "2345": {
+        "nombre": "Jovanna",
+        "edad": "23",
+        "genero": "F",
+        "peso": "66",
+        "altura": "1.6",
+        "alergias": [
+            "polvo"
+        ],
+        "medicamentos": [
+            "loratadina"
+        ],
+        "condiciones": [
+            "no"
+        ],
+        "historial": [
+            {
+                "fecha": "2025-03-31 00:57:12",
+                "s\u00edntomas": [
+                    "mareos"
+                ],
+                "intensidad": "8",
+                "duracion": "5",
+                "notas": "",
+                "recomendaciones": [
+                    "Evitar automedicarse sin supervisi\u00f3n m\u00e9dica",
+                    "Mantener una buena hidrataci\u00f3n",
+                    "Descansar adecuadamente"
+                ],
+                "posibles_condiciones": [
+                    "problemas de o\u00eddo",
+                    "deshidrataci\u00f3n",
+                    "presi\u00f3n baja"
+                ]
+            }
+        ],
+        "ultima_consulta": "2025-03-31 00:57:12"
+    }
+}
